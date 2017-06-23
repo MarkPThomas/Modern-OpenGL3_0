@@ -1,1 +1,2 @@
 # Modern-OpenGL3_0
+Follow-along coding to the YouTube videos at [https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8 "Modern OpenGL 3.0+ Tutorials")
